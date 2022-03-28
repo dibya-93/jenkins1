@@ -3,7 +3,6 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="happy123.LoginVtigerTest"/>
       <class name="happy123.CreatecontactTest"/>
       <class name="happy123.DeleteContactTest"/>
     </classes>
