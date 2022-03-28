@@ -8,6 +8,8 @@ public class DeleteContactTest {
 		System.out.println("delete contact");
 		System.out.println("no deletion");
 		System.out.println("wait scm");
+		System.out.println("hau au");
+		
 	}
 
 }
