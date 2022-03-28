@@ -6,6 +6,7 @@ public class DeleteContactTest {
 	@Test(groups="regression")
 	public void deleteContact() {
 		System.out.println("delete contact");
+		System.out.println("no deletion");
 	}
 
 }
