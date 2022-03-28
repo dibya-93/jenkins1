@@ -7,6 +7,7 @@ public class DeleteContactTest {
 	public void deleteContact() {
 		System.out.println("delete contact");
 		System.out.println("no deletion");
+		System.out.println("wait scm");
 	}
 
 }
